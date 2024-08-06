@@ -47,8 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NatsumiYuki/NatsumiYuki/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h3 align="center">Thank You</h3>
