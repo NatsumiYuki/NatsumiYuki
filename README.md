@@ -2,21 +2,17 @@
 
 ###
 
-<p align="center">Majoring in Computer Science at the Pontifical Catholic University of Minas Gerais</p>
+<p align="center">
+  Majoring in Computer Science at the Pontifical Catholic University of Minas Gerais
+</p>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="38" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="38" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="38" alt="instagram logo"  />
-</div>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhwemdkeXpodGU2ZjY0ZXkzZmIxZDY1MnAxbXlncXFncDZ2dHk2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"  />
-</div>
+  <img height="200" img width="307" align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhwemdkeXpodGU2ZjY0ZXkzZmIxZDY1MnAxbXlncXFncDZ2dHk2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"  />
+
 
 ###
 
