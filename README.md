@@ -49,5 +49,5 @@
 
 </br>
 
-<h3 align="center">Thats it</h3>
+<h3 align="center">That's it</h3>
 
