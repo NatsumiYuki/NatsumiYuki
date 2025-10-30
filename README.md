@@ -18,7 +18,7 @@
 
 </br>
 
-<h3 align="left">Languages and Tools</h3>
+<p align="left"> ⋆˚꩜｡Languages and Tools⋆˚࿔</p>
 
  💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
